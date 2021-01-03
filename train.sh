@@ -1,0 +1,1 @@
+python main_sum.py --config res34_112x112_adam_lr1e-3.yaml
